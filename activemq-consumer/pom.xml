@@ -4,7 +4,7 @@
     <groupId>com.chnjan</groupId>
     <artifactId>chnjan-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <relativePath>../chnjan-parent/pom.xml</relativePath>
+    <relativePath>../../chnjan-parent/pom.xml</relativePath>
   </parent>
   <artifactId>activemq-consumer</artifactId>
   
